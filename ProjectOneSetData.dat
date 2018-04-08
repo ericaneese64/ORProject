@@ -1,3 +1,5 @@
+# Archived code, outdated
+
 set Type:= PT FT PTP FTP OTF OTP;
 set Activities:= AG FG C BP;
 
