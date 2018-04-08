@@ -1,0 +1,12 @@
+set Time:= FT PT OT;
+set Activities:= AG FG C BP;
+
+param RCost:=
+FT 20
+PT 15
+OT 30;
+
+param PCost:=
+FT 30
+PT 30
+OT 45;
