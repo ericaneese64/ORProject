@@ -1,5 +1,5 @@
 set Time:= FT PT OT;
-set Activities:= AG FG C BP;
+set Activity:= AG FG C BP;
 
 param RCost:=
 FT 20
@@ -10,3 +10,9 @@ param PCost:=
 FT 30
 PT 30
 OT 45;
+
+param WeeklyHrs:=
+AG 96
+FG 144
+C  30
+BP 54;
