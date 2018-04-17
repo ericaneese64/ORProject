@@ -1,0 +1,23 @@
+param: SUPPLIES: s:=
+RPT 8
+RFT 10
+ROT 
+PPT 4
+PFT 6
+POT 
+
+param: DEMANDS: d:=
+D1 4
+D2 3
+D3 6
+D4 6
+DD 9;
+
+
+param c: D1  D2  D3  D4  DD:=
+RPT      420 420 420 420 0
+RFT      560 560 560 560 0
+ROT      840 840 840 840 0
+PPT      840 840 840 840 0
+PFT      840 840 840 840 0
+POT      1260 1260 1260 1260 0;
