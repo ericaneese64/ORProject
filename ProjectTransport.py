@@ -35,9 +35,9 @@ def demand_rule(model,j):
 model.demandConstraints = Constraint(model.DEMANDS, rule=demand_rule)
 
 #Full Time 8 Hour Block
-def FullTime_rule(model,i):
+def FullTime_rule(model,i,j):
     return model.x[i,j] + model.x[i,j+1] == 2
-model.FTReq = Constraint(model.FulltimeSUPPLIES, rule=FullTime_rule)
+model.FTReq = Constraint(model.FulltimeSUPPLIES,model.DEMANDS, rule=FullTime_rule)
 
 #Full Time 8 Hour Block
 #def FullTime_rule(model,i):
@@ -51,3 +51,13 @@ model.FTReq = Constraint(model.FulltimeSUPPLIES, rule=FullTime_rule)
 def BDay_rule(model):
     return sum(model.x[i,'BP'] for i in model.PrestigeSupplies) >= 1
 model.BDayReq = Constraint(model.PrestigeSUPPLIES, rule=BDay_rule)
+
+'**********************************************Running the Model****************************************'
+data = DataPortal()
+data.load(filename="ProjectData.dat", model=model)
+
+optimizer = SolverFactory("glpk")
+instance = model.create_instance(data)
+
+optimizer.solve(instance)
+instance.display()
