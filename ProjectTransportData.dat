@@ -7,11 +7,11 @@ PFT 6
 POT 
 
 param: DEMANDS: d:=
-D1 112
-D2 84
-D3 168
-D4 168
-DD 61;
+D1 168
+D2 168
+D3 84
+D4 112
+DD 65;
 
 
 param c: D1  D2  D3  D4  DD:=
