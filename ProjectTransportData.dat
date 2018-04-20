@@ -1,7 +1,6 @@
 
-Set PrestigeSUPPLIES:= Polk Quincy Franklin FranklinOT Teddy TeddyOT Dwight DwightOT;
-Set FulltimeSUPPLIES:= Grover GroverOT Rutherford RutherfordOT Warren WarrenOT Gerald GeraldOT Marty MartyOT Benji BenjiOT Franklin FranklinOT Teddy TeddyOT Dwight DwightOT;
-
+set PrestigeSUPPLIES:= Polk Quincy Franklin FranklinOT Teddy TeddyOT Dwight DwightOT;
+set FulltimeSUPPLIES:= Grover GroverOT Rutherford RutherfordOT Warren WarrenOT Gerald GeraldOT Marty MartyOT Benji BenjiOT Franklin FranklinOT Teddy TeddyOT Dwight DwightOT;
 
 param: SUPPLIES: s:=
 Pierce 29.5
@@ -27,7 +26,7 @@ FranklinOT 15
 Teddy 45
 TeddyOT 15
 Dwight 45
-Dwight 15;
+DwightOT 15;
 
 
 param: DEMANDS: d:=
@@ -38,28 +37,28 @@ AG 112
 DD 65;
 
 
-param c: D1  D2  D3  D4  DD:=
-Pierce 60 60  60  60  0
-Chester 60  60  60  60  0
-William 60  60  60  60  0
-Millard 60  60  60  60  0
-Grover 80 80  80  80  0
-GroverOT  120 120 120 120 0
-Rutherford 80 80  80  80  0
-Rutherford  120 120 120 120 0
-Warren 80 80  80  80  80  0
-WarenOT 120 120 120 120 0
-Gerald 80 80  80  80  80  0
-GeraldOT  120 120 120 120 0
-Marty 80  80  80  80  80  0
-MartyOT 120 120 120 120 0
-Benji 80  80  80  80  80  0
-BenjiOT 120 120 120 120 0
-Polk 120  120 120 120 120 0
-Quincy 120  120 120 120 0
-Franklin 120  120 120 120 0
-FranlkinOT  180 180 180 180 0
-Teddy 120 120 120 120 0
-TeddyOT 180 180 180 180 0
-Dwight 120  120 120 120 0
-DwightOT  180 180 180 180 0;
+param c:       FG  BP  CL  AG  DD:=
+Pierce         60  60  60  60  0
+Chester        60  60  60  60  0
+William        60  60  60  60  0
+Millard        60  60  60  60  0
+Grover         80  80  80  80  0
+GroverOT       120 120 120 120 0
+Rutherford     80  80  80  80  0
+RutherfordOT   120 120 120 120 0
+Warren         80  80  80  80  0
+WarrenOT        120 120 120 120 0
+Gerald         80  80  80  80  0
+GeraldOT       120 120 120 120 0
+Marty          80  80  80  80  0
+MartyOT        120 120 120 120 0
+Benji          80  80  80  80  0
+BenjiOT        120 120 120 120 0
+Polk           120 120 120 120 0
+Quincy         120 120 120 120 0
+Franklin       120 120 120 120 0
+FranklinOT     180 180 180 180 0
+Teddy          120 120 120 120 0
+TeddyOT        180 180 180 180 0
+Dwight         120 120 120 120 0
+DwightOT       180 180 180 180 0;
