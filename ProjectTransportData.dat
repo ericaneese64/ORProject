@@ -11,7 +11,7 @@ D1 112
 D2 84
 D3 168
 D4 168
-DD ?;
+DD 61;
 
 
 param c: D1  D2  D3  D4  DD:=
