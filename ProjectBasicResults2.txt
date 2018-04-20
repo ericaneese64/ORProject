@@ -1,0 +1,498 @@
+               ('AbeOT', 'FG4') :     0 :   0.0 :  None : False : False
+               ('AbeOT', 'FG5') :     0 :   0.0 :  None : False : False
+               ('AbeOT', 'FG6') :     0 :   0.0 :  None : False : False
+               ('Benji', 'AG1') :     0 :  28.0 :  None : False : False
+               ('Benji', 'AG2') :     0 :   0.0 :  None : False : False
+               ('Benji', 'AG3') :     0 :   0.0 :  None : False : False
+               ('Benji', 'AG4') :     0 :   0.0 :  None : False : False
+               ('Benji', 'BP1') :     0 :   0.0 :  None : False : False
+               ('Benji', 'BP2') :     0 :   0.0 :  None : False : False
+               ('Benji', 'BP3') :     0 :   0.0 :  None : False : False
+               ('Benji', 'BP4') :     0 :   0.0 :  None : False : False
+               ('Benji', 'BP5') :     0 :  17.0 :  None : False : False
+               ('Benji', 'BP6') :     0 :   0.0 :  None : False : False
+               ('Benji', 'CL1') :     0 :   0.0 :  None : False : False
+               ('Benji', 'CL2') :     0 :   0.0 :  None : False : False
+               ('Benji', 'CL3') :     0 :   0.0 :  None : False : False
+                ('Benji', 'DD') :     0 :   0.0 :  None : False : False
+               ('Benji', 'FG1') :     0 :   0.0 :  None : False : False
+               ('Benji', 'FG2') :     0 :   0.0 :  None : False : False
+               ('Benji', 'FG3') :     0 :   0.0 :  None : False : False
+               ('Benji', 'FG4') :     0 :   0.0 :  None : False : False
+               ('Benji', 'FG5') :     0 :   0.0 :  None : False : False
+               ('Benji', 'FG6') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'AG1') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'AG2') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'AG3') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'AG4') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'BP1') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'BP2') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'BP3') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'BP4') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'BP5') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'BP6') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'CL1') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'CL2') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'CL3') :     0 :   0.0 :  None : False : False
+              ('BenjiOT', 'DD') :     0 :  15.0 :  None : False : False
+             ('BenjiOT', 'FG1') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'FG2') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'FG3') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'FG4') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'FG5') :     0 :   0.0 :  None : False : False
+             ('BenjiOT', 'FG6') :     0 :   0.0 :  None : False : False
+             ('Chester', 'AG1') :     0 :   0.0 :  None : False : False
+             ('Chester', 'AG2') :     0 :   0.0 :  None : False : False
+             ('Chester', 'AG3') :     0 :   0.0 :  None : False : False
+             ('Chester', 'AG4') :     0 :   0.0 :  None : False : False
+             ('Chester', 'BP1') :     0 :   0.0 :  None : False : False
+             ('Chester', 'BP2') :     0 :   0.0 :  None : False : False
+             ('Chester', 'BP3') :     0 :   0.0 :  None : False : False
+             ('Chester', 'BP4') :     0 :   0.0 :  None : False : False
+             ('Chester', 'BP5') :     0 :   0.0 :  None : False : False
+             ('Chester', 'BP6') :     0 :   0.0 :  None : False : False
+             ('Chester', 'CL1') :     0 :   0.0 :  None : False : False
+             ('Chester', 'CL2') :     0 :   0.0 :  None : False : False
+             ('Chester', 'CL3') :     0 :   0.0 :  None : False : False
+              ('Chester', 'DD') :     0 :   0.0 :  None : False : False
+             ('Chester', 'FG1') :     0 :   0.0 :  None : False : False
+             ('Chester', 'FG2') :     0 :   0.0 :  None : False : False
+             ('Chester', 'FG3') :     0 :   0.0 :  None : False : False
+             ('Chester', 'FG4') :     0 :   1.5 :  None : False : False
+             ('Chester', 'FG5') :     0 :  28.0 :  None : False : False
+             ('Chester', 'FG6') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'AG1') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'AG2') :     0 :  28.0 :  None : False : False
+            ('Franklin', 'AG3') :     0 :   1.0 :  None : False : False
+            ('Franklin', 'AG4') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'BP1') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'BP2') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'BP3') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'BP4') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'BP5') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'BP6') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'CL1') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'CL2') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'CL3') :     0 :   0.0 :  None : False : False
+             ('Franklin', 'DD') :     0 :  16.0 :  None : False : False
+            ('Franklin', 'FG1') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'FG2') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'FG3') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'FG4') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'FG5') :     0 :   0.0 :  None : False : False
+            ('Franklin', 'FG6') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'AG1') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'AG2') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'AG3') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'AG4') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'BP1') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'BP2') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'BP3') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'BP4') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'BP5') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'BP6') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'CL1') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'CL2') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'CL3') :     0 :   0.0 :  None : False : False
+           ('FranklinOT', 'DD') :     0 :  15.0 :  None : False : False
+          ('FranklinOT', 'FG1') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'FG2') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'FG3') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'FG4') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'FG5') :     0 :   0.0 :  None : False : False
+          ('FranklinOT', 'FG6') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'AG1') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'AG2') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'AG3') :     0 :   7.0 :  None : False : False
+              ('Gerald', 'AG4') :     0 :  28.0 :  None : False : False
+              ('Gerald', 'BP1') :     0 :  10.0 :  None : False : False
+              ('Gerald', 'BP2') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'BP3') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'BP4') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'BP5') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'BP6') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'CL1') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'CL2') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'CL3') :     0 :   0.0 :  None : False : False
+               ('Gerald', 'DD') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'FG1') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'FG2') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'FG3') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'FG4') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'FG5') :     0 :   0.0 :  None : False : False
+              ('Gerald', 'FG6') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'AG1') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'AG2') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'AG3') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'AG4') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'BP1') :     0 :  15.0 :  None : False : False
+            ('GeraldOT', 'BP2') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'BP3') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'BP4') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'BP5') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'BP6') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'CL1') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'CL2') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'CL3') :     0 :   0.0 :  None : False : False
+             ('GeraldOT', 'DD') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'FG1') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'FG2') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'FG3') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'FG4') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'FG5') :     0 :   0.0 :  None : False : False
+            ('GeraldOT', 'FG6') :     0 :   0.0 :  None : False : False
+              ('Grover', 'AG1') :     0 :   0.0 :  None : False : False
+              ('Grover', 'AG2') :     0 :   0.0 :  None : False : False
+              ('Grover', 'AG3') :     0 :   0.0 :  None : False : False
+              ('Grover', 'AG4') :     0 :   0.0 :  None : False : False
+              ('Grover', 'BP1') :     0 :   3.0 :  None : False : False
+              ('Grover', 'BP2') :     0 :  28.0 :  None : False : False
+              ('Grover', 'BP3') :     0 :  14.0 :  None : False : False
+              ('Grover', 'BP4') :     0 :   0.0 :  None : False : False
+              ('Grover', 'BP5') :     0 :   0.0 :  None : False : False
+              ('Grover', 'BP6') :     0 :   0.0 :  None : False : False
+              ('Grover', 'CL1') :     0 :   0.0 :  None : False : False
+              ('Grover', 'CL2') :     0 :   0.0 :  None : False : False
+              ('Grover', 'CL3') :     0 :   0.0 :  None : False : False
+               ('Grover', 'DD') :     0 :   0.0 :  None : False : False
+              ('Grover', 'FG1') :     0 :   0.0 :  None : False : False
+              ('Grover', 'FG2') :     0 :   0.0 :  None : False : False
+              ('Grover', 'FG3') :     0 :   0.0 :  None : False : False
+              ('Grover', 'FG4') :     0 :   0.0 :  None : False : False
+              ('Grover', 'FG5') :     0 :   0.0 :  None : False : False
+              ('Grover', 'FG6') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'AG1') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'AG2') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'AG3') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'AG4') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'BP1') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'BP2') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'BP3') :     0 :  14.0 :  None : False : False
+            ('GroverOT', 'BP4') :     0 :   1.0 :  None : False : False
+            ('GroverOT', 'BP5') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'BP6') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'CL1') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'CL2') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'CL3') :     0 :   0.0 :  None : False : False
+             ('GroverOT', 'DD') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'FG1') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'FG2') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'FG3') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'FG4') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'FG5') :     0 :   0.0 :  None : False : False
+            ('GroverOT', 'FG6') :     0 :   0.0 :  None : False : False
+               ('Marty', 'AG1') :     0 :   0.0 :  None : False : False
+               ('Marty', 'AG2') :     0 :   0.0 :  None : False : False
+               ('Marty', 'AG3') :     0 :   0.0 :  None : False : False
+               ('Marty', 'AG4') :     0 :   0.0 :  None : False : False
+               ('Marty', 'BP1') :     0 :   0.0 :  None : False : False
+               ('Marty', 'BP2') :     0 :   0.0 :  None : False : False
+               ('Marty', 'BP3') :     0 :   0.0 :  None : False : False
+               ('Marty', 'BP4') :     0 :  27.0 :  None : False : False
+               ('Marty', 'BP5') :     0 :   0.0 :  None : False : False
+               ('Marty', 'BP6') :     0 :  18.0 :  None : False : False
+               ('Marty', 'CL1') :     0 :   0.0 :  None : False : False
+               ('Marty', 'CL2') :     0 :   0.0 :  None : False : False
+               ('Marty', 'CL3') :     0 :   0.0 :  None : False : False
+                ('Marty', 'DD') :     0 :   0.0 :  None : False : False
+               ('Marty', 'FG1') :     0 :   0.0 :  None : False : False
+               ('Marty', 'FG2') :     0 :   0.0 :  None : False : False
+               ('Marty', 'FG3') :     0 :   0.0 :  None : False : False
+               ('Marty', 'FG4') :     0 :   0.0 :  None : False : False
+               ('Marty', 'FG5') :     0 :   0.0 :  None : False : False
+               ('Marty', 'FG6') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'AG1') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'AG2') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'AG3') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'AG4') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'BP1') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'BP2') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'BP3') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'BP4') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'BP5') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'BP6') :     0 :  10.0 :  None : False : False
+             ('MartyOT', 'CL1') :     0 :   5.0 :  None : False : False
+             ('MartyOT', 'CL2') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'CL3') :     0 :   0.0 :  None : False : False
+              ('MartyOT', 'DD') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'FG1') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'FG2') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'FG3') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'FG4') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'FG5') :     0 :   0.0 :  None : False : False
+             ('MartyOT', 'FG6') :     0 :   0.0 :  None : False : False
+             ('Millard', 'AG1') :     0 :   0.0 :  None : False : False
+             ('Millard', 'AG2') :     0 :   0.0 :  None : False : False
+             ('Millard', 'AG3') :     0 :   0.0 :  None : False : False
+             ('Millard', 'AG4') :     0 :   0.0 :  None : False : False
+             ('Millard', 'BP1') :     0 :   0.0 :  None : False : False
+             ('Millard', 'BP2') :     0 :   0.0 :  None : False : False
+             ('Millard', 'BP3') :     0 :   0.0 :  None : False : False
+             ('Millard', 'BP4') :     0 :   0.0 :  None : False : False
+             ('Millard', 'BP5') :     0 :   0.0 :  None : False : False
+             ('Millard', 'BP6') :     0 :   0.0 :  None : False : False
+             ('Millard', 'CL1') :     0 :  23.0 :  None : False : False
+             ('Millard', 'CL2') :     0 :   6.5 :  None : False : False
+             ('Millard', 'CL3') :     0 :   0.0 :  None : False : False
+              ('Millard', 'DD') :     0 :   0.0 :  None : False : False
+             ('Millard', 'FG1') :     0 :   0.0 :  None : False : False
+             ('Millard', 'FG2') :     0 :   0.0 :  None : False : False
+             ('Millard', 'FG3') :     0 :   0.0 :  None : False : False
+             ('Millard', 'FG4') :     0 :   0.0 :  None : False : False
+             ('Millard', 'FG5') :     0 :   0.0 :  None : False : False
+             ('Millard', 'FG6') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'AG1') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'AG2') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'AG3') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'AG4') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'BP1') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'BP2') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'BP3') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'BP4') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'BP5') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'BP6') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'CL1') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'CL2') :     0 :  21.5 :  None : False : False
+              ('Pierce', 'CL3') :     0 :   8.0 :  None : False : False
+               ('Pierce', 'DD') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'FG1') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'FG2') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'FG3') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'FG4') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'FG5') :     0 :   0.0 :  None : False : False
+              ('Pierce', 'FG6') :     0 :   0.0 :  None : False : False
+                ('Polk', 'AG1') :     0 :   0.0 :  None : False : False
+                ('Polk', 'AG2') :     0 :   0.0 :  None : False : False
+                ('Polk', 'AG3') :     0 :   0.0 :  None : False : False
+                ('Polk', 'AG4') :     0 :   0.0 :  None : False : False
+                ('Polk', 'BP1') :     0 :   0.0 :  None : False : False
+                ('Polk', 'BP2') :     0 :   0.0 :  None : False : False
+                ('Polk', 'BP3') :     0 :   0.0 :  None : False : False
+                ('Polk', 'BP4') :     0 :   0.0 :  None : False : False
+                ('Polk', 'BP5') :     0 :   0.0 :  None : False : False
+                ('Polk', 'BP6') :     0 :   0.0 :  None : False : False
+                ('Polk', 'CL1') :     0 :   0.0 :  None : False : False
+                ('Polk', 'CL2') :     0 :   0.0 :  None : False : False
+                ('Polk', 'CL3') :     0 :  20.0 :  None : False : False
+                 ('Polk', 'DD') :     0 :   0.0 :  None : False : False
+                ('Polk', 'FG1') :     0 :   9.5 :  None : False : False
+                ('Polk', 'FG2') :     0 :   0.0 :  None : False : False
+                ('Polk', 'FG3') :     0 :   0.0 :  None : False : False
+                ('Polk', 'FG4') :     0 :   0.0 :  None : False : False
+                ('Polk', 'FG5') :     0 :   0.0 :  None : False : False
+                ('Polk', 'FG6') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'AG1') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'AG2') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'AG3') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'AG4') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'BP1') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'BP2') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'BP3') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'BP4') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'BP5') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'BP6') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'CL1') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'CL2') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'CL3') :     0 :   0.0 :  None : False : False
+               ('Quincy', 'DD') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'FG1') :     0 :  18.5 :  None : False : False
+              ('Quincy', 'FG2') :     0 :  11.0 :  None : False : False
+              ('Quincy', 'FG3') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'FG4') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'FG5') :     0 :   0.0 :  None : False : False
+              ('Quincy', 'FG6') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'AG1') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'AG2') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'AG3') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'AG4') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'BP1') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'BP2') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'BP3') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'BP4') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'BP5') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'BP6') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'CL1') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'CL2') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'CL3') :     0 :   0.0 :  None : False : False
+           ('Rutherford', 'DD') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'FG1') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'FG2') :     0 :  17.0 :  None : False : False
+          ('Rutherford', 'FG3') :     0 :  28.0 :  None : False : False
+          ('Rutherford', 'FG4') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'FG5') :     0 :   0.0 :  None : False : False
+          ('Rutherford', 'FG6') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'AG1') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'AG2') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'AG3') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'AG4') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'BP1') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'BP2') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'BP3') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'BP4') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'BP5') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'BP6') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'CL1') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'CL2') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'CL3') :     0 :   0.0 :  None : False : False
+         ('RutherfordOT', 'DD') :     0 :  15.0 :  None : False : False
+        ('RutherfordOT', 'FG1') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'FG2') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'FG3') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'FG4') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'FG5') :     0 :   0.0 :  None : False : False
+        ('RutherfordOT', 'FG6') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'AG1') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'AG2') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'AG3') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'AG4') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'BP1') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'BP2') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'BP3') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'BP4') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'BP5') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'BP6') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'CL1') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'CL2') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'CL3') :     0 :   0.0 :  None : False : False
+                ('Teddy', 'DD') :     0 :  45.0 :  None : False : False
+               ('Teddy', 'FG1') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'FG2') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'FG3') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'FG4') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'FG5') :     0 :   0.0 :  None : False : False
+               ('Teddy', 'FG6') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'AG1') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'AG2') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'AG3') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'AG4') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'BP1') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'BP2') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'BP3') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'BP4') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'BP5') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'BP6') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'CL1') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'CL2') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'CL3') :     0 :   0.0 :  None : False : False
+              ('TeddyOT', 'DD') :     0 :  15.0 :  None : False : False
+             ('TeddyOT', 'FG1') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'FG2') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'FG3') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'FG4') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'FG5') :     0 :   0.0 :  None : False : False
+             ('TeddyOT', 'FG6') :     0 :   0.0 :  None : False : False
+              ('Warren', 'AG1') :     0 :   0.0 :  None : False : False
+              ('Warren', 'AG2') :     0 :   0.0 :  None : False : False
+              ('Warren', 'AG3') :     0 :  20.0 :  None : False : False
+              ('Warren', 'AG4') :     0 :   0.0 :  None : False : False
+              ('Warren', 'BP1') :     0 :   0.0 :  None : False : False
+              ('Warren', 'BP2') :     0 :   0.0 :  None : False : False
+              ('Warren', 'BP3') :     0 :   0.0 :  None : False : False
+              ('Warren', 'BP4') :     0 :   0.0 :  None : False : False
+              ('Warren', 'BP5') :     0 :   0.0 :  None : False : False
+              ('Warren', 'BP6') :     0 :   0.0 :  None : False : False
+              ('Warren', 'CL1') :     0 :   0.0 :  None : False : False
+              ('Warren', 'CL2') :     0 :   0.0 :  None : False : False
+              ('Warren', 'CL3') :     0 :   0.0 :  None : False : False
+               ('Warren', 'DD') :     0 :   0.0 :  None : False : False
+              ('Warren', 'FG1') :     0 :   0.0 :  None : False : False
+              ('Warren', 'FG2') :     0 :   0.0 :  None : False : False
+              ('Warren', 'FG3') :     0 :   0.0 :  None : False : False
+              ('Warren', 'FG4') :     0 :   0.0 :  None : False : False
+              ('Warren', 'FG5') :     0 :   0.0 :  None : False : False
+              ('Warren', 'FG6') :     0 :  25.0 :  None : False : False
+            ('WarrenOT', 'AG1') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'AG2') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'AG3') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'AG4') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'BP1') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'BP2') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'BP3') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'BP4') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'BP5') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'BP6') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'CL1') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'CL2') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'CL3') :     0 :   0.0 :  None : False : False
+             ('WarrenOT', 'DD') :     0 :  15.0 :  None : False : False
+            ('WarrenOT', 'FG1') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'FG2') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'FG3') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'FG4') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'FG5') :     0 :   0.0 :  None : False : False
+            ('WarrenOT', 'FG6') :     0 :   0.0 :  None : False : False
+             ('William', 'AG1') :     0 :   0.0 :  None : False : False
+             ('William', 'AG2') :     0 :   0.0 :  None : False : False
+             ('William', 'AG3') :     0 :   0.0 :  None : False : False
+             ('William', 'AG4') :     0 :   0.0 :  None : False : False
+             ('William', 'BP1') :     0 :   0.0 :  None : False : False
+             ('William', 'BP2') :     0 :   0.0 :  None : False : False
+             ('William', 'BP3') :     0 :   0.0 :  None : False : False
+             ('William', 'BP4') :     0 :   0.0 :  None : False : False
+             ('William', 'BP5') :     0 :   0.0 :  None : False : False
+             ('William', 'BP6') :     0 :   0.0 :  None : False : False
+             ('William', 'CL1') :     0 :   0.0 :  None : False : False
+             ('William', 'CL2') :     0 :   0.0 :  None : False : False
+             ('William', 'CL3') :     0 :   0.0 :  None : False : False
+              ('William', 'DD') :     0 :   0.0 :  None : False : False
+             ('William', 'FG1') :     0 :   0.0 :  None : False : False
+             ('William', 'FG2') :     0 :   0.0 :  None : False : False
+             ('William', 'FG3') :     0 :   0.0 :  None : False : False
+             ('William', 'FG4') :     0 :  26.5 :  None : False : False
+             ('William', 'FG5') :     0 :   0.0 :  None : False : False
+             ('William', 'FG6') :     0 :   3.0 :  None : False : False
+
+  Objectives:
+    minCost : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True : 45960.0
+
+  Constraints:
+    supplyConstraints : Size=24
+        Key          : Lower : Body : Upper
+                 Abe :  45.0 : 45.0 :  45.0
+               AbeOT :  15.0 : 15.0 :  15.0
+               Benji :  45.0 : 45.0 :  45.0
+             BenjiOT :  15.0 : 15.0 :  15.0
+             Chester :  29.5 : 29.5 :  29.5
+            Franklin :  45.0 : 45.0 :  45.0
+          FranklinOT :  15.0 : 15.0 :  15.0
+              Gerald :  45.0 : 45.0 :  45.0
+            GeraldOT :  15.0 : 15.0 :  15.0
+              Grover :  45.0 : 45.0 :  45.0
+            GroverOT :  15.0 : 15.0 :  15.0
+               Marty :  45.0 : 45.0 :  45.0
+             MartyOT :  15.0 : 15.0 :  15.0
+             Millard :  29.5 : 29.5 :  29.5
+              Pierce :  29.5 : 29.5 :  29.5
+                Polk :  29.5 : 29.5 :  29.5
+              Quincy :  29.5 : 29.5 :  29.5
+          Rutherford :  45.0 : 45.0 :  45.0
+        RutherfordOT :  15.0 : 15.0 :  15.0
+               Teddy :  45.0 : 45.0 :  45.0
+             TeddyOT :  15.0 : 15.0 :  15.0
+              Warren :  45.0 : 45.0 :  45.0
+            WarrenOT :  15.0 : 15.0 :  15.0
+             William :  29.5 : 29.5 :  29.5
+    demandConstraints : Size=20
+        Key : Lower : Body  : Upper
+        AG1 :  28.0 :  28.0 :  28.0
+        AG2 :  28.0 :  28.0 :  28.0
+        AG3 :  28.0 :  28.0 :  28.0
+        AG4 :  28.0 :  28.0 :  28.0
+        BP1 :  28.0 :  28.0 :  28.0
+        BP2 :  28.0 :  28.0 :  28.0
+        BP3 :  28.0 :  28.0 :  28.0
+        BP4 :  28.0 :  28.0 :  28.0
+        BP5 :  28.0 :  28.0 :  28.0
+        BP6 :  28.0 :  28.0 :  28.0
+        CL1 :  28.0 :  28.0 :  28.0
+        CL2 :  28.0 :  28.0 :  28.0
+        CL3 :  28.0 :  28.0 :  28.0
+         DD : 185.0 : 185.0 : 185.0
+        FG1 :  28.0 :  28.0 :  28.0
+        FG2 :  28.0 :  28.0 :  28.0
+        FG3 :  28.0 :  28.0 :  28.0
+        FG4 :  28.0 :  28.0 :  28.0
+        FG5 :  28.0 :  28.0 :  28.0
+        FG6 :  28.0 :  28.0 :  28.0
