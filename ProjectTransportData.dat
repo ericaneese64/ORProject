@@ -1,6 +1,6 @@
 
-set PrestigeSUPPLIES:= Polk Quincy Franklin FranklinOT Teddy TeddyOT Dwight DwightOT;
-set FulltimeSUPPLIES:= Grover GroverOT Rutherford RutherfordOT Warren WarrenOT Gerald GeraldOT Marty MartyOT Benji BenjiOT Franklin FranklinOT Teddy TeddyOT Dwight DwightOT;
+set PrestigeSUPPLIES:= Polk Quincy Franklin FranklinOT Teddy TeddyOT Abe AbeOT;
+set FulltimeSUPPLIES:= Grover GroverOT Rutherford RutherfordOT Warren WarrenOT Gerald GeraldOT Marty MartyOT Benji BenjiOT Franklin FranklinOT Teddy TeddyOT Abe AbeOT;
 
 param: SUPPLIES: s:=
 Pierce 29.5
@@ -25,8 +25,8 @@ Franklin 45
 FranklinOT 15
 Teddy 45
 TeddyOT 15
-Dwight 45
-DwightOT 15;
+Abe 45
+AbeOT 15;
 
 
 param: DEMANDS: d:=
@@ -47,7 +47,7 @@ GroverOT       120 120 120 120 0
 Rutherford     80  80  80  80  0
 RutherfordOT   120 120 120 120 0
 Warren         80  80  80  80  0
-WarrenOT        120 120 120 120 0
+WarrenOT       120 120 120 120 0
 Gerald         80  80  80  80  0
 GeraldOT       120 120 120 120 0
 Marty          80  80  80  80  0
@@ -60,5 +60,5 @@ Franklin       120 120 120 120 0
 FranklinOT     180 180 180 180 0
 Teddy          120 120 120 120 0
 TeddyOT        180 180 180 180 0
-Dwight         120 120 120 120 0
-DwightOT       180 180 180 180 0;
+Abe            120 120 120 120 0
+AbeOT          180 180 180 180 0;
