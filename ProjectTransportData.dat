@@ -1,32 +1,32 @@
 
-set PrestigeSUPPLIES:= Polk Quincy Franklin FranklinOT Teddy TeddyOT Abe AbeOT;
 set FulltimeSUPPLIES:= Grover GroverOT Rutherford RutherfordOT Warren WarrenOT Gerald GeraldOT Marty MartyOT Benji BenjiOT Franklin FranklinOT Teddy TeddyOT Abe AbeOT;
+set PrestigeSUPPLIES:= Polk Quincy Franklin FranklinOT Teddy TeddyOT Abe AbeOT;
 
 param: SUPPLIES: s:=
-Pierce 29.5
-Chester 29.5
-William 29.5
-Millard 29.5
-Grover 45
-GroverOT 15
-Rutherford 45
-RutherfordOT 15
-Warren 45
-WarrenOT 15
-Gerald 45
-GeraldOT 15
-Marty 45
-MartyOT 15
-Benji 45
-BenjiOT 15
-Polk 29.5
-Quincy 29.5
-Franklin 45
-FranklinOT 15
-Teddy 45
-TeddyOT 15
-Abe 45
-AbeOT 15;
+Pierce          29.5
+Chester         29.5
+William         29.5
+Millard         29.5
+Grover          45
+GroverOT        15
+Rutherford      45
+RutherfordOT    15
+Warren          45
+WarrenOT        15
+Gerald          45
+GeraldOT        15
+Marty           45
+MartyOT         15
+Benji           45
+BenjiOT         15
+Polk            29.5
+Quincy          29.5
+Franklin        45
+FranklinOT      15
+Teddy           45
+TeddyOT         15
+Abe             45
+AbeOT           15;
 
 
 param: DEMANDS: d:=
@@ -34,7 +34,7 @@ FG 168
 BP 168
 CL 84
 AG 112
-DD 65;
+DD 185;
 
 
 param c:       FG  BP  CL  AG  DD:=
