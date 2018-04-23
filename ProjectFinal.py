@@ -34,7 +34,7 @@ model.demandConstraints = Constraint(model.DEMANDS, rule=demand_rule)
 
 '**********************************************Running the Model****************************************'
 data = DataPortal()
-data.load(filename="ProjectData2.1.dat", model=model)
+data.load(filename="ProjectDataFinal.dat", model=model)
 
 optimizer = SolverFactory("glpk")
 instance = model.create_instance(data)
