@@ -1,7 +1,4 @@
 
-set FulltimeSUPPLIES:= Grover GroverOT Rutherford RutherfordOT Warren WarrenOT Gerald GeraldOT Marty MartyOT Benji BenjiOT Franklin FranklinOT Teddy TeddyOT Abe AbeOT;
-set PrestigeSUPPLIES:= Polk Quincy Franklin FranklinOT Teddy TeddyOT Abe AbeOT;
-
 param: SUPPLIES: s:=
 Pierce          4
 Chester         4
