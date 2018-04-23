@@ -39,7 +39,7 @@ CL3AG1 8
 AG2    4
 AG3    4
 AG4    4
-DD    48;
+DD    40;
 
 
 param c:       FG1    FG2    FG3BP1   FG4BP2   FG5BP3   FG6BP4   BP5   BP6CL1   CL2      CL3AG1 AG2    AG3    AG4    DD:=
