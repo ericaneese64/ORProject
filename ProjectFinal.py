@@ -21,12 +21,12 @@ def objective_rule(model):
     return sum(model.c[i,j] * model.x[i,j] for i in model.SUPPLIES for j in model.DEMANDS)
 model.minCost = Objective(rule=objective_rule, sense=minimize)
 
-#Supply Constraint: The total amount of workers supplied
+#Supply Constraint: The total amount of worker hours i supplied to each shift j must be equal to the total supply of hours available for all workers
 def supply_rule(model,i):
     return (sum(model.x[i,j] for j in model.DEMANDS) == model.s[i] )
 model.supplyConstraints = Constraint(model.SUPPLIES, rule=supply_rule)
 
-#Demand Constraint
+#Demand Constraint: The total amount of worker hours i sent to each shift j must be equal to the total demand of hours required for each shift j
 def demand_rule(model,j):
     return (sum(model.x[i,j] for i in model.SUPPLIES) == model.d[j])
 model.demandConstraints = Constraint(model.DEMANDS, rule=demand_rule)
