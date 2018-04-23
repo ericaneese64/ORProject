@@ -10,10 +10,10 @@ model.DEMANDS = Set() #demand nodes: Each shift for part and full time workers
 
 #parameters
 model.s = Param(model.SUPPLIES) #supply of hours available for each worker
-model.d = Param(model.DEMANDS) #demand required for each shift
-model.c = Param(model.SUPPLIES, model.DEMANDS) #wage per hour for each worker for a given shift
+model.d = Param(model.DEMANDS) #demand of hours required for each shift
+model.c = Param(model.SUPPLIES, model.DEMANDS) #wage per hour for each worker i for a given shift j
 
-#decision variables: x[ij] = amount of hours each worker i works for shift j
+#decision variables: x[ij] = number of hours each worker i works for shift j
 model.x = Var(model.SUPPLIES, model.DEMANDS, within = NonNegativeReals)
 
 #objective function: minimize the daily cost of labor for each worker i and shift j
@@ -21,7 +21,7 @@ def objective_rule(model):
     return sum(model.c[i,j] * model.x[i,j] for i in model.SUPPLIES for j in model.DEMANDS)
 model.minCost = Objective(rule=objective_rule, sense=minimize)
 
-#Supply Constraint: The total 
+#Supply Constraint: The total amount of workers supplied
 def supply_rule(model,i):
     return (sum(model.x[i,j] for j in model.DEMANDS) == model.s[i] )
 model.supplyConstraints = Constraint(model.SUPPLIES, rule=supply_rule)
