@@ -1,0 +1,65 @@
+param:	SUPPLIES:	s:=																																
+Pierce	4																																	
+Chester	4																																	
+William	4																																	
+Millard	4																																	
+Grover	4																																	
+Rutherford	8																																	
+RutherfordOT	4																																	
+Warren	8																																	
+WarrenOT	4																																	
+Gerald	8																																	
+GeraldOT	4																																	
+Marty	8																																	
+MartyOT	4																																	
+Benji	8																																	
+BenjiOT	4																																	
+Polk	4																																	
+Quincy	4																																	
+Franklin	8																																	
+FranklinOT	4																																	
+Teddy	8																																	
+TeddyOT	4																																	
+Abe	8																																	
+AbeOT	4;																																	
+																																		
+param:	DEMANDS	d:=																																
+FG1	4																																	
+FG2	4																																	
+FG3BP1	8																																	
+FG4BP2	8																																	
+FG5BP3	8																																	
+FG6BP4	8																																	
+BP5	4																																	
+BP6CL1	8																																	
+CL2	4																																	
+CL3AG1	8																																	
+AG2	4																																	
+AG3	4																																	
+AG4	4																																	
+DD	48;																																	
+																																		
+param c:	FG1	FG2	FG3BP1	FG4BP2	FG5BP3	FG6BP4	BP5	BP6CL1	CL2	CL3AG1	AG2	AG3	AG4	DD																				
+Pierce	15	15	99	99	99	99	15	99	15	99	15	15	15	0																				
+Chester	15	15	99	99	99	99	15	99	15	99	15	15	15	0																				
+William	99	99	99	99	99	99	99	99	15	99	15	15	15	0																				
+Millard	99	99	99	99	99	99	99	99	15	99	15	15	15	0																				
+Grover	15	15	99	99	99	99	15	99	15	99	15	15	15	0																				
+Rutherford	99	99	20	20	20	99	99	20	99	20	15	15	15	0																				
+RutherfordOT	99	99	30	30	30	99	99	30	99	30	99	99	99	0																				
+Warren	99	99	20	20	20	99	99	20	99	20	99	99	99	0																				
+WarrenOT	99	99	30	30	30	99	99	30	99	30	99	99	99	0																				
+Gerald	99	99	20	20	20	99	99	20	99	20	99	99	99	0																				
+GeraldOT	99	99	30	30	30	99	99	30	99	30	99	99	99	0																				
+Marty	99	99	20	20	20	99	99	20	99	20	99	99	99	0																				
+MartyOT	99	99	30	30	30	99	99	30	99	30	99	99	99	0																				
+Benji	99	99	20	20	20	99	99	20	99	20	99	99	99	0																				
+BenjiOT	99	99	30	30	30	99	99	30	99	30	99	99	99	0																				
+Polk	99	99	99	99	99	99	99	99	30	99	30	30	30	0																				
+Quincy	30	30	99	99	99	99	30	99	30	99	30	30	30	0																				
+Franklin	99	99	30	30	30	30	99	30	99	30	99	99	99	0																				
+FranklinOT	99	99	45	45	45	45	99	45	99	45	99	99	99	0																				
+Teddy	99	99	30	30	30	30	99	30	99	30	99	99	99	0																				
+TeddyOT	99	99	45	45	45	45	99	45	99	45	99	99	99	0																				
+Abe	99	99	30	30	30	30	99	30	99	30	99	99	99	0																				
+AbeOT	99	99	45	45	45	45	99	45	99	45	99	99	99	0;																				
