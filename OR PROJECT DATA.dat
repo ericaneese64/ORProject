@@ -39,7 +39,7 @@ AG3	4
 AG4	4																																	
 DD	48;																																	
 																																		
-param c:	FG1	FG2	FG3BP1	FG4BP2	FG5BP3	FG6BP4	BP5	BP6CL1	CL2	CL3AG1	AG2	AG3	AG4	DD																				
+param c:	FG1	FG2	FG3BP1	FG4BP2	FG5BP3	FG6BP4	BP5	BP6CL1	CL2	CL3AG1	AG2	AG3	AG4	DD:=																				
 Pierce	15	15	99	99	99	99	15	99	15	99	15	15	15	0																				
 Chester	15	15	99	99	99	99	15	99	15	99	15	15	15	0																				
 William	99	99	99	99	99	99	99	99	15	99	15	15	15	0																				
