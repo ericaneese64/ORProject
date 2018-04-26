@@ -1,4 +1,4 @@
-param:	SUPPLIES:	s:=																																
+param: SUPPLIES: s:=																																
 Pierce	4																																	
 Chester	4																																	
 William	4																																	
@@ -23,7 +23,7 @@ TeddyOT	4
 Abe	8																																	
 AbeOT	4;																																	
 																																		
-param:	DEMANDS	d:=																																
+param: DEMANDS: d:=																																
 FG1	4																																	
 FG2	4																																	
 FG3BP1	8																																	
@@ -62,4 +62,4 @@ FranklinOT	99	99	45	45	45	45	99	45	99	45	99	99	99	0
 Teddy	99	99	30	30	30	30	99	30	99	30	99	99	99	0																				
 TeddyOT	99	99	45	45	45	45	99	45	99	45	99	99	99	0																				
 Abe	99	99	30	30	30	30	99	30	99	30	99	99	99	0																				
-AbeOT	99	99	45	45	45	45	99	45	99	45	99	99	99	0;																				
+AbeOT	99	99	45	45	45	45	99	45	99	45	99	99	99	0;	
